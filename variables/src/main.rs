@@ -32,4 +32,9 @@ fn main() {
     }
 
     println!("The value of x is: {x}");
+
+    //signed integer types start with i , unsigned integer types start with u
+    //after i and u number refer to bits , how much bits that integer takes
+
+    let mut a = 20;
 }
